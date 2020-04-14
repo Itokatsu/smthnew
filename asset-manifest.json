@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smthnew/static/css/main.5f361e03.chunk.css",
+    "main.js": "/smthnew/static/js/main.8f3d8f23.chunk.js",
+    "main.js.map": "/smthnew/static/js/main.8f3d8f23.chunk.js.map",
+    "runtime-main.js": "/smthnew/static/js/runtime-main.9628c1f9.js",
+    "runtime-main.js.map": "/smthnew/static/js/runtime-main.9628c1f9.js.map",
+    "static/js/2.455f1b76.chunk.js": "/smthnew/static/js/2.455f1b76.chunk.js",
+    "static/js/2.455f1b76.chunk.js.map": "/smthnew/static/js/2.455f1b76.chunk.js.map",
+    "index.html": "/smthnew/index.html",
+    "precache-manifest.18d38b11a64c7c03a814fbb3d2442877.js": "/smthnew/precache-manifest.18d38b11a64c7c03a814fbb3d2442877.js",
+    "service-worker.js": "/smthnew/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/smthnew/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.455f1b76.chunk.js.LICENSE.txt": "/smthnew/static/js/2.455f1b76.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/smthnew/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9628c1f9.js",
+    "static/js/2.455f1b76.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8f3d8f23.chunk.js"
+  ]
+}
